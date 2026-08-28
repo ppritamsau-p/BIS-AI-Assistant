@@ -1,0 +1,56 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: bis
+      POSTGRES_PASSWORD: bis
+      POSTGRES_DB: bis
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bis -d bis"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment:
+      # The backend degrades gracefully: with no ANTHROPIC_API_KEY it serves the
+      # extractive composer rather than failing to start.
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      BIS_LLM_MODEL: ${BIS_LLM_MODEL:-claude-opus-5}
+      DATABASE_URL: postgresql+psycopg://bis:bis@db:5432/bis
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-local}
+      JWT_SECRET: ${JWT_SECRET:-dev-only-secret-change-me}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-admin123}
+      USER_PASSWORD: ${USER_PASSWORD:-user123}
+      CORS_ORIGINS: http://localhost:3000
+      DEMO_MODE: ${DEMO_MODE:-true}
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mounted so documents added through the admin console survive a restart.
+      - ./data:/app/data
+    depends_on:
+      db:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    environment:
+      # Server-side only. The browser never sees the backend origin.
+      BIS_API_BASE: http://backend:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:

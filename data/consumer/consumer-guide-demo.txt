@@ -1,0 +1,36 @@
+DEMO DOCUMENT - NOT AN OFFICIAL BIS EXTRACT
+BIS FOR CONSUMERS - PLAIN LANGUAGE GUIDE (DEMO)
+Document type: BIS Consumer Guideline
+
+<<<PAGE:1>>>
+1 WHAT THE BIS MARK MEANS
+1.1 The Standard Mark, commonly called the ISI Mark, on a product means the manufacturer holds a valid licence from BIS to declare that the product conforms to a specified Indian Standard. The mark is accompanied by the number of that Indian Standard and the licence number.
+1.2 The mark is about conformity to a standard. It is not a rating of quality relative to other brands, and it is not a guarantee of any particular lifespan.
+1.3 For notified electronics and IT products, the Standard Mark appears with a registration number under the Compulsory Registration Scheme instead of a licence number.
+
+2 HOW TO CHECK WHETHER A PRODUCT IS REALLY CERTIFIED
+2.1 Read the mark on the product. It should show the Standard Mark, the Indian Standard number and the licence or registration number.
+2.2 Verify the licence or registration number against the official BIS database or the BIS Care facility. A mark without a verifiable number should be treated with suspicion.
+2.3 For gold and silver jewellery, check for the hallmark and verify the HUID through the official verification facility.
+2.4 Keep the invoice. It is the primary record if you later need to complain.
+
+<<<PAGE:2>>>
+3 MAKING A COMPLAINT
+3.1 Complaints about a product bearing the Standard Mark that does not appear to conform to the standard can be lodged with BIS through the official complaint facility, including the BIS Care app and the BIS website.
+3.2 Provide the product details, the licence or registration number shown on the product, the place and date of purchase, and the invoice.
+3.3 Complaints about the misuse of the Standard Mark - a mark applied without a valid licence - can also be reported to BIS.
+3.4 A complaint about price, service or general dissatisfaction is a consumer forum matter rather than a BIS conformity matter.
+
+4 PRODUCT SAFETY BASICS
+4.1 For electrical products, check that the product carries the required mark, that the rated voltage matches the supply, and that a three-pin plug is used where the appliance requires earthing.
+4.2 For helmets, check for the Standard Mark and that the retention strap and shell are undamaged.
+4.3 For packaged drinking water, check for the Standard Mark, the batch details and the date of packaging.
+4.4 For toys, check the age grading and the marking, and keep small parts away from young children.
+
+<<<PAGE:3>>>
+5 FREQUENTLY ASKED QUESTIONS
+5.1 Is every product required to carry the BIS mark - No. Certification is mandatory only for products notified under a Quality Control Order or under the Compulsory Registration Scheme. For all other products it is voluntary.
+5.2 Does a BIS mark mean the product was tested by BIS - Conformity is established through testing at a recognised laboratory and, for most schemes, factory inspection and ongoing surveillance. It does not mean BIS tested that individual unit.
+5.3 What should I do if a hallmarked article turns out to be of lower purity than marked - Take it up with the seller, and report it to BIS. A hallmarked article may be re-tested at a recognised Assaying and Hallmarking Centre.
+5.4 Where do I find the list of products under mandatory certification - The list is published by BIS and by the notifying ministries. It changes over time and must be checked against the official source.
+5.5 Can I buy an Indian Standard document - Indian Standards are published by BIS and can be obtained through its official channels.

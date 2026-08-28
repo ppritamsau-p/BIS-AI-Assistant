@@ -1,0 +1,52 @@
+DEMO DOCUMENT - NOT AN OFFICIAL BIS EXTRACT
+Indian Standard
+IS 302-1 : 2008
+SAFETY OF HOUSEHOLD AND SIMILAR ELECTRICAL APPLIANCES - PART 1 GENERAL REQUIREMENTS
+
+<<<PAGE:1>>>
+1 SCOPE
+This standard deals with the safety of electrical appliances for household and similar purposes, their rated voltage being not more than 250 V for single-phase appliances and 480 V for other appliances. It covers the reasonably foreseeable hazards presented by appliances that are encountered by all persons in and around the home, including the hazards of electric shock, excessive temperature, mechanical injury and fire.
+
+2 NORMATIVE REFERENCES
+IS 694 PVC insulated cables for working voltages up to and including 1100 V. IS 1293 Plugs and socket-outlets. IS 616 Audio, video and similar electronic apparatus - Safety requirements.
+
+<<<PAGE:2>>>
+3 DEFINITIONS
+3.1 Rated Voltage - The voltage assigned to the appliance by the manufacturer.
+3.2 Class I Appliance - An appliance in which protection against electric shock does not rely on basic insulation only, but which includes a means of connecting accessible conductive parts to the protective earthing conductor.
+3.3 Class II Appliance - An appliance in which protection against electric shock does not rely on basic insulation only, but in which additional safety precautions such as double insulation or reinforced insulation are provided.
+3.4 Accessible Part - A part that can be touched by the standard test finger.
+
+<<<PAGE:3>>>
+5 GENERAL CONDITIONS FOR THE TESTS
+5.1 Tests are carried out on a single appliance which shall withstand all the relevant tests. Tests are carried out under the most unfavourable conditions of use within the limits specified by the manufacturer.
+5.2 The appliance is supplied at rated voltage unless otherwise specified.
+
+7 MARKING AND INSTRUCTIONS
+7.1 Appliances shall be marked with the rated voltage or voltage range in volts, the symbol for the nature of supply, the rated power input in watts or rated current in amperes, the manufacturer's name or trade mark, and the model or type reference.
+7.2 Class II appliances shall bear the symbol for Class II construction. This symbol shall not be placed in a position where it could be taken to refer to other markings.
+7.3 Marking shall be durable and legible. Compliance is checked by inspection and by rubbing the marking by hand for 15 s with a cloth soaked in water and again for 15 s with a cloth soaked in petroleum spirit.
+
+<<<PAGE:4>>>
+8 PROTECTION AGAINST ACCESS TO LIVE PARTS
+8.1 Appliances shall be constructed and enclosed so that there is adequate protection against accidental contact with live parts. Compliance is checked by applying the standard test finger to every accessible position, without appreciable force.
+8.2 The requirement applies to all positions of the appliance and after removal of all detachable parts.
+
+11 HEATING
+11.1 Appliances and their surroundings shall not attain excessive temperatures in normal use. Compliance is checked by determining the temperature rise of the various parts under the conditions specified.
+11.2 Temperature rises are determined by means of fine-wire thermocouples chosen and positioned so that they have the minimum effect on the temperature of the part under test.
+
+<<<PAGE:5>>>
+16 LEAKAGE CURRENT AND ELECTRIC STRENGTH
+16.1 At operating temperature, the leakage current of the appliance shall not be excessive and its electric strength shall be adequate.
+16.2 The leakage current is measured between any pole of the supply source and accessible metal parts connected to metal foil. For Class II appliances the leakage current shall not exceed the specified limit.
+16.3 Electric Strength Test
+Immediately after the leakage current measurement, the insulation is subjected for 1 min to a voltage of substantially sine-wave form having the specified frequency. No breakdown shall occur during the test.
+
+<<<PAGE:6>>>
+27 PROVISION FOR EARTHING
+27.1 Accessible metal parts of Class I appliances that may become live in the event of an insulation fault shall be permanently and reliably connected to an earthing terminal within the appliance, or to the earthing contact of the appliance inlet.
+27.2 The earthing terminal shall not be used for fixing any component, and the connection shall be of low resistance. Compliance is checked by passing a current derived from a source having a no-load voltage not exceeding 12 V between the earthing terminal and each of the accessible metal parts in turn, and measuring the voltage drop.
+
+28 SCREWS AND CONNECTIONS
+28.1 Fixings, electrical connections and connections providing earthing continuity shall withstand the mechanical stresses occurring in normal use.

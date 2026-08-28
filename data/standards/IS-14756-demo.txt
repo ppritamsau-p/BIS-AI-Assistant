@@ -1,0 +1,57 @@
+DEMO DOCUMENT - NOT AN OFFICIAL BIS EXTRACT
+Indian Standard
+IS 14756 : 2022
+STAINLESS STEEL UTENSILS FOR COOKING AND SERVING - SPECIFICATION
+
+<<<PAGE:1>>>
+1 SCOPE
+This standard prescribes the requirements for stainless steel utensils intended for cooking, serving, carrying and storing food, including lunch boxes, tiffin carriers, containers, plates, bowls and serving dishes for household, institutional and school use. It covers the grade of stainless steel, wall thickness, capacity, workmanship, finish, freedom from sharp edges and the marking to be applied to the finished article.
+
+2 REFERENCES
+The standards listed below contain provisions which, through reference in this text, constitute provisions of this standard. IS 5522 Stainless steel sheets and strips for utensils. IS 6911 Stainless steel plate, sheet and strip. IS 1993 Methods of chemical analysis of stainless steel.
+
+<<<PAGE:2>>>
+3 TERMINOLOGY
+3.1 Utensil - An article intended to come into contact with food during preparation, cooking, serving, carrying or storage.
+3.2 Food Contact Surface - Any surface of the utensil that comes into direct contact with food under normal and foreseeable conditions of use.
+3.3 Lunch Box - A closable utensil, with or without compartments, intended to carry prepared food for consumption away from the place of preparation.
+
+4 GRADE OF MATERIAL
+4.1 Utensils covered by this standard shall be manufactured from austenitic stainless steel conforming to IS 5522. The grade shall be declared by the manufacturer.
+4.2 Where the utensil is intended for direct and prolonged contact with food, the material shall be of a grade offering adequate corrosion resistance for the intended service, and shall not impart any odour, colour or taste to the food.
+4.3 Recycled material may be used provided the finished article meets every requirement of this standard.
+
+<<<PAGE:3>>>
+5 REQUIREMENTS
+5.1 Workmanship and Finish
+The utensil shall be free from cracks, pits, dents, burrs, laps, seams and other manufacturing defects. The surface shall be uniformly finished. All welds and joints shall be smooth and continuous.
+5.2 Thickness
+The wall thickness of the utensil shall not be less than the value declared by the manufacturer, and in no case less than the minimum specified for the relevant capacity group. Thickness shall be measured at not fewer than three points and the average taken.
+5.3 Freedom from Sharp Edges
+No accessible edge, rim, corner or projection shall be sharp enough to cause injury during normal handling and cleaning. Rims shall be rolled, curled or otherwise finished. This requirement is of particular importance for utensils intended for use by children.
+5.4 Capacity
+The capacity of the utensil, when filled to the declared level, shall be within the tolerance declared by the manufacturer.
+5.5 Handles and Closures
+Handles, if provided, shall be securely fixed and shall withstand the load test. Closures of lunch boxes and carriers shall remain engaged when subjected to the drop test and shall not leak.
+
+<<<PAGE:4>>>
+6 TESTS
+6.1 Chemical Composition
+The chemical composition of the stainless steel shall be determined in accordance with IS 1993 and shall conform to the declared grade.
+6.2 Thickness Measurement
+Thickness shall be measured with a micrometer or an ultrasonic thickness gauge of adequate resolution.
+6.3 Corrosion Resistance Test
+The utensil shall be subjected to the boiling acid immersion test. After the test there shall be no visible pitting, discolouration or loss of finish on the food contact surface.
+6.4 Sharp Edge Test
+Accessible edges shall be examined using the sharp edge test device. No edge shall be classified as sharp.
+6.5 Drop Test for Closures
+A filled and closed lunch box shall be dropped from the specified height onto a hard surface. The closure shall remain engaged and there shall be no leakage of contents.
+
+<<<PAGE:5>>>
+7 MARKING
+7.1 Each utensil shall be legibly and indelibly marked with the manufacturer's name or recognised trade mark, the grade of stainless steel, the nominal capacity, and the batch or lot identification.
+7.2 BIS Certification Marking
+The product may be marked with the Standard Mark as governed by the provisions of the Bureau of Indian Standards Act, the Rules and the Regulations made thereunder. The details of the conditions under which a licence for the use of the Standard Mark may be granted to manufacturers or producers may be obtained from the Bureau of Indian Standards.
+
+8 PACKING
+Utensils shall be packed so as to protect the finish during transport and storage. The package shall carry the marking required by 7.1.

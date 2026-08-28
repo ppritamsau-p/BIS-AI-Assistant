@@ -1,0 +1,176 @@
+{
+  "_meta": {
+    "dataset": "DEMO DATA",
+    "warning": "DEMO DATA - Replace with authorized BIS data before production. Scheme descriptions here are simplified for prototype demonstration and are not a substitute for the official scheme documents.",
+    "official_source": "https://www.bis.gov.in/"
+  },
+  "schemes": [
+    {
+      "id": "scheme-1",
+      "scheme_name": "Scheme-I - Product Certification (ISI Mark)",
+      "short_name": "Scheme-I / ISI Mark",
+      "product_category": "General products covered by an Indian Standard",
+      "applies_to": [
+        "Food-contact household product",
+        "Raw material - metal",
+        "Electrical appliance",
+        "Electrical cable",
+        "Electrical accessory",
+        "Construction material",
+        "Food and beverage",
+        "Children's product",
+        "Personal protective equipment"
+      ],
+      "standard_numbers": ["IS 14756", "IS 5522", "IS 302-1", "IS 694", "IS 1293", "IS 269", "IS 14543", "IS 9873-1", "IS 4151"],
+      "mandatory": false,
+      "requirements": [
+        "The product must be covered by an Indian Standard",
+        "Manufacturing must take place at the premises declared in the application",
+        "In-house testing capability for routine and acceptance tests, or an accepted subcontracting arrangement",
+        "A documented Scheme of Testing and Inspection operated by the licensee",
+        "Qualified quality control personnel"
+      ],
+      "documents": [
+        "Proof of establishment of the firm",
+        "Proof of the manufacturing address / factory licence",
+        "List of manufacturing machinery installed",
+        "List of in-house testing equipment with calibration certificates",
+        "Process flow chart for the product",
+        "Third-party test report from a BIS recognised laboratory",
+        "Details and qualifications of quality control personnel",
+        "Trade mark registration or application, if applicable",
+        "Signed undertaking on the Scheme of Testing and Inspection"
+      ],
+      "procedure": [
+        "Identify the product and its variants precisely",
+        "Identify the applicable Indian Standard",
+        "Establish whether certification is mandatory (QCO / CRS) or voluntary",
+        "Get samples tested at a BIS recognised laboratory",
+        "Prepare the technical and legal documents",
+        "Submit the application with the prescribed fee through the BIS online portal",
+        "Undergo factory inspection and provide samples for independent testing",
+        "Resolve any non-conformities raised",
+        "Receive the licence to apply the Standard Mark"
+      ],
+      "testing": [
+        "Full type testing against every requirement of the applicable Indian Standard",
+        "Independent testing of samples drawn during factory inspection",
+        "Ongoing routine and acceptance testing under the Scheme of Testing and Inspection"
+      ],
+      "inspection": "Factory inspection by a BIS officer covering the manufacturing process, in-house test facilities, quality control staff and records, followed by periodic surveillance after the licence is granted.",
+      "typical_timeline": "Varies by product and by the completeness of the application. Confirm current timelines with BIS.",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "scheme-crs",
+      "scheme_name": "Compulsory Registration Scheme (CRS)",
+      "short_name": "CRS",
+      "product_category": "Notified electronics and IT products",
+      "applies_to": ["Lighting product", "Electrical appliance"],
+      "standard_numbers": ["IS 16102", "IS 302-1"],
+      "mandatory": true,
+      "requirements": [
+        "The product must be notified under the Compulsory Registration Order",
+        "Testing must be done at a BIS recognised laboratory",
+        "The manufacturer must hold a valid registration before the product is placed on the market",
+        "The Standard Mark with the registration number must be applied as prescribed"
+      ],
+      "documents": [
+        "Test report from a BIS recognised laboratory",
+        "Proof of establishment of the manufacturing unit",
+        "Business address proof",
+        "Trade mark registration or application, if applicable",
+        "Authorised Indian Representative documents for foreign manufacturers",
+        "Undertaking as prescribed under the scheme"
+      ],
+      "procedure": [
+        "Confirm the product is in the notified CRS list",
+        "Get the product tested at a BIS recognised laboratory",
+        "Apply online for registration with the test report",
+        "Registration is granted on the basis of the test report",
+        "Apply the Standard Mark with the registration number",
+        "Maintain conformity; BIS exercises surveillance through market samples"
+      ],
+      "testing": [
+        "Safety testing against the applicable Indian Standard",
+        "Testing must be at a laboratory recognised by BIS for that standard"
+      ],
+      "inspection": "No routine factory inspection under CRS. Surveillance is exercised through market sample testing and the registration database.",
+      "typical_timeline": "Varies. Confirm current timelines with BIS.",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "scheme-hallmarking",
+      "scheme_name": "Hallmarking Scheme for Precious Metal Articles",
+      "short_name": "Hallmarking",
+      "product_category": "Gold and silver jewellery and artefacts",
+      "applies_to": ["Precious metal - jewellery"],
+      "standard_numbers": ["IS 1417", "IS 1418", "IS 15820"],
+      "mandatory": true,
+      "requirements": [
+        "The jeweller must be registered with BIS for the premises from which articles are sold",
+        "Articles must be assayed and hallmarked at a BIS recognised Assaying and Hallmarking Centre",
+        "Each hallmarked article must carry the BIS standard mark, the purity grade and the HUID",
+        "Prescribed records and invoices must be maintained"
+      ],
+      "documents": [
+        "Proof of establishment of the firm",
+        "Business address proof for each premises to be registered",
+        "Identity documents of the proprietor, partners or directors",
+        "Details of the categories of precious metal articles dealt in"
+      ],
+      "procedure": [
+        "Register as a jeweller on the BIS hallmarking portal",
+        "Display the registration certificate at the place of business",
+        "Send articles to a recognised Assaying and Hallmarking Centre",
+        "The centre assays the article and applies the hallmark with the HUID",
+        "Sell only hallmarked articles where hallmarking is mandatory",
+        "Maintain records of articles hallmarked and sold"
+      ],
+      "testing": [
+        "Assaying of purity at a recognised Assaying and Hallmarking Centre",
+        "Fire assay (cupellation) as the referee method for gold, per IS 1418",
+        "X-ray fluorescence for screening"
+      ],
+      "inspection": "Surveillance of recognised Assaying and Hallmarking Centres by BIS, including proficiency testing, and market surveillance of registered jewellers.",
+      "typical_timeline": "Varies. Confirm current timelines with BIS.",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "scheme-fmcs",
+      "scheme_name": "Foreign Manufacturers Certification Scheme (FMCS)",
+      "short_name": "FMCS",
+      "product_category": "Products manufactured outside India",
+      "applies_to": ["Any product category covered by an Indian Standard"],
+      "standard_numbers": [],
+      "mandatory": false,
+      "requirements": [
+        "The manufacturing unit is located outside India",
+        "An Authorised Indian Representative must be appointed",
+        "The product must conform to the applicable Indian Standard"
+      ],
+      "documents": [
+        "Application with the prescribed fee",
+        "Authorised Indian Representative nomination and acceptance",
+        "Manufacturing unit and machinery details",
+        "In-house testing facility details with calibration records",
+        "Test report against the applicable Indian Standard"
+      ],
+      "procedure": [
+        "Appoint an Authorised Indian Representative",
+        "Apply to BIS with the prescribed documents and fee",
+        "Undergo factory evaluation at the overseas premises",
+        "Provide samples for independent testing in India",
+        "Resolve non-conformities and receive the licence"
+      ],
+      "testing": ["Type testing against the applicable Indian Standard", "Independent testing of drawn samples in India"],
+      "inspection": "Factory evaluation at the overseas manufacturing premises, followed by periodic surveillance.",
+      "typical_timeline": "Varies. Confirm current timelines with BIS.",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    }
+  ]
+}

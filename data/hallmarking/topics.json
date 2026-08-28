@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "dataset": "DEMO DATA",
+    "warning": "DEMO DATA - Replace with authorized BIS data before production.",
+    "official_source": "https://www.bis.gov.in/"
+  },
+  "topics": [
+    {
+      "id": "hm-gold",
+      "topic": "Gold Hallmarking",
+      "category": "Gold",
+      "summary": "Hallmarking certifies the proportion of gold in a jewellery article. Gold jewellery is graded under IS 1417 and assayed by the methods in IS 1418 at a BIS recognised Assaying and Hallmarking Centre.",
+      "details": [
+        "Purity is expressed in carats and fineness, for example 22K916, 18K750 or 14K585.",
+        "The number after K is the parts of gold per thousand in the alloy.",
+        "The hallmark is applied by the recognised centre, not by the jeweller.",
+        "A hallmarked gold article carries the BIS standard mark, the purity grade and a HUID."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "hm-silver",
+      "topic": "Silver Hallmarking",
+      "category": "Silver",
+      "summary": "Silver jewellery and artefacts are graded for fineness under IS 15820 and carry the BIS standard mark together with the fineness grade.",
+      "details": [
+        "Fineness grades apply to silver jewellery and artefacts.",
+        "Assaying and marking take place at a BIS recognised Assaying and Hallmarking Centre.",
+        "Marking requirements differ from those for gold; check the applicable grade for the article."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "hm-huid",
+      "topic": "HUID - Hallmark Unique Identification",
+      "category": "HUID",
+      "summary": "The HUID is a six-digit alphanumeric code assigned to each individual hallmarked article at the Assaying and Hallmarking Centre and recorded in the hallmarking database.",
+      "details": [
+        "Each HUID is unique to one physical article.",
+        "The database records the jeweller, the centre, the purity and the article description against the code.",
+        "A consumer can enter the HUID in the official BIS verification facility to see the recorded details.",
+        "If the details shown do not match the article in hand, raise it with the seller and report it to BIS."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "hm-centre",
+      "topic": "Assaying and Hallmarking Centre",
+      "category": "Hallmarking Centre",
+      "summary": "An independent facility recognised by BIS to assay precious metal articles and apply the hallmark. Recognition is granted for specified metals and test methods.",
+      "details": [
+        "Fire assay by cupellation is the referee method for gold under IS 1418.",
+        "X-ray fluorescence is used for screening.",
+        "Centres are subject to periodic surveillance by BIS, including proficiency testing.",
+        "The centre applies the hallmark and records the article, including the HUID, in the database."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "hm-consumer",
+      "topic": "Consumer Verification of a Hallmarked Article",
+      "category": "Consumer Verification",
+      "summary": "A consumer should check that the article carries all required marks, verify the HUID through the official BIS facility, and insist on an invoice recording the prescribed particulars.",
+      "details": [
+        "Check for the BIS standard mark, the purity grade and the HUID on the article.",
+        "Verify the HUID in the official BIS verification facility.",
+        "Ask for an invoice showing net precious-metal weight, purity in carats and fineness, hallmarking charges and the HUID.",
+        "A consumer may get a hallmarked article re-tested at a recognised centre.",
+        "The hallmark certifies purity only - not weight, making charges, or the value of stones set in the article."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "hm-jeweller",
+      "topic": "Registration Process for Jewellers",
+      "category": "Jeweller Process",
+      "summary": "A jeweller registers with BIS through the hallmarking portal against each premises from which precious metal articles are sold, then gets articles hallmarked at a recognised centre before sale.",
+      "details": [
+        "Register online and obtain the registration number.",
+        "Display the registration certificate at the place of business.",
+        "Send articles to a BIS recognised Assaying and Hallmarking Centre.",
+        "Sell only hallmarked articles where hallmarking is mandatory for that category and location.",
+        "Maintain records of articles sent for hallmarking and of articles sold."
+      ],
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    }
+  ]
+}

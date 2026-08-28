@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "dataset": "DEMO DATA - PLACEHOLDER LABORATORY RECORDS",
+    "warning": "These are NOT real laboratories. Names, capabilities and recognition statuses are placeholders that exist only so the Testing Laboratory Finder UI can be demonstrated. No contact details are provided, deliberately, so that no placeholder record can be mistaken for a real recognised laboratory. Replace this file with the authorized BIS list of recognised laboratories before production.",
+    "official_source": "https://www.bis.gov.in/",
+    "contact_policy": "Contact details are intentionally omitted from demo records."
+  },
+  "laboratories": [
+    {
+      "id": "lab-demo-001",
+      "name": "DEMO Placeholder Laboratory N-1 (North Region)",
+      "city": "Placeholder City",
+      "state": "Delhi",
+      "lab_type": "Electrical and electronics testing",
+      "recognition_status": "DEMO RECORD - recognition status not verified",
+      "recognition_scope": ["Electrical appliances", "Wires and cables", "Electrical accessories"],
+      "testing_capabilities": [
+        "Insulation resistance",
+        "Electric strength (high voltage)",
+        "Leakage current",
+        "Temperature rise",
+        "Earthing continuity",
+        "Marking durability"
+      ],
+      "product_categories": ["Electrical appliance", "Electrical cable", "Electrical accessory", "Lighting product"],
+      "standards_covered": ["IS 302-1", "IS 694", "IS 1293", "IS 16102"],
+      "contact": "Not provided in demo dataset",
+      "email": "",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "lab-demo-002",
+      "name": "DEMO Placeholder Laboratory W-1 (West Region)",
+      "city": "Placeholder City",
+      "state": "Maharashtra",
+      "lab_type": "Mechanical and materials testing",
+      "recognition_status": "DEMO RECORD - recognition status not verified",
+      "recognition_scope": ["Metals and alloys", "Utensils and food-contact articles", "Construction materials"],
+      "testing_capabilities": [
+        "Chemical composition analysis",
+        "Thickness measurement",
+        "Corrosion resistance",
+        "Tensile and bend test",
+        "Sharp edge test",
+        "Drop and impact test"
+      ],
+      "product_categories": ["Food-contact household product", "Raw material - metal", "Construction material"],
+      "standards_covered": ["IS 14756", "IS 5522", "IS 269"],
+      "contact": "Not provided in demo dataset",
+      "email": "",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "lab-demo-003",
+      "name": "DEMO Placeholder Laboratory S-1 (South Region)",
+      "city": "Placeholder City",
+      "state": "Karnataka",
+      "lab_type": "Chemical, food and water testing",
+      "recognition_status": "DEMO RECORD - recognition status not verified",
+      "recognition_scope": ["Water quality", "Packaged beverages", "Food contact materials"],
+      "testing_capabilities": [
+        "Physical and chemical parameters",
+        "Heavy metals (AAS / ICP)",
+        "Microbiological testing",
+        "Pesticide residue screening",
+        "Migration testing of packaging"
+      ],
+      "product_categories": ["Food and beverage", "Water quality", "Food-contact household product"],
+      "standards_covered": ["IS 14543", "IS 10500"],
+      "contact": "Not provided in demo dataset",
+      "email": "",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "lab-demo-004",
+      "name": "DEMO Placeholder Laboratory E-1 (East Region)",
+      "city": "Placeholder City",
+      "state": "West Bengal",
+      "lab_type": "Consumer products and safety testing",
+      "recognition_status": "DEMO RECORD - recognition status not verified",
+      "recognition_scope": ["Toys and juvenile products", "Personal protective equipment"],
+      "testing_capabilities": [
+        "Small parts cylinder test",
+        "Sharp edge and point test",
+        "Torque and tension test",
+        "Shock absorption",
+        "Penetration resistance",
+        "Retention system strength"
+      ],
+      "product_categories": ["Children's product", "Personal protective equipment"],
+      "standards_covered": ["IS 9873-1", "IS 4151"],
+      "contact": "Not provided in demo dataset",
+      "email": "",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    },
+    {
+      "id": "lab-demo-005",
+      "name": "DEMO Placeholder Assaying and Hallmarking Centre C-1 (Central Region)",
+      "city": "Placeholder City",
+      "state": "Madhya Pradesh",
+      "lab_type": "Assaying and hallmarking centre",
+      "recognition_status": "DEMO RECORD - recognition status not verified",
+      "recognition_scope": ["Gold jewellery and artefacts", "Silver jewellery and artefacts"],
+      "testing_capabilities": [
+        "Fire assay (cupellation)",
+        "X-ray fluorescence screening",
+        "Fineness determination",
+        "Hallmark application and HUID recording"
+      ],
+      "product_categories": ["Precious metal - jewellery"],
+      "standards_covered": ["IS 1417", "IS 1418", "IS 15820"],
+      "contact": "Not provided in demo dataset",
+      "email": "",
+      "source_url": "https://www.bis.gov.in/",
+      "demo": true
+    }
+  ]
+}

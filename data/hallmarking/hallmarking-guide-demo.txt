@@ -1,0 +1,52 @@
+DEMO DOCUMENT - NOT AN OFFICIAL BIS EXTRACT
+BIS HALLMARKING - GUIDE FOR JEWELLERS AND CONSUMERS (DEMO)
+Document type: BIS Service Guideline
+
+<<<PAGE:1>>>
+1 WHAT HALLMARKING IS
+1.1 Hallmarking is the accurate determination and official recording of the proportionate content of precious metal in a precious metal article. It gives the buyer third-party assurance that the purity of the gold or silver article is what the seller claims it to be.
+1.2 In India the hallmarking of gold and silver jewellery and artefacts is operated by the Bureau of Indian Standards. Gold jewellery is graded in accordance with IS 1417 and silver jewellery in accordance with IS 15820. Assaying methods are given in IS 1418.
+1.3 Hallmarking is carried out at an Assaying and Hallmarking Centre recognised by BIS. The jeweller does not apply the hallmark; the recognised centre does.
+
+2 WHAT APPEARS ON A HALLMARKED ARTICLE
+2.1 A hallmarked gold article carries the BIS standard mark, the purity or fineness grade, and a six-digit alphanumeric HUID code.
+2.2 The purity grade is expressed in carats and fineness, for example 22K916, 18K750 or 14K585, where the number after the K is the parts of gold per thousand.
+2.3 Silver articles carry the BIS standard mark together with the fineness grade appropriate to the article.
+
+<<<PAGE:2>>>
+3 HUID - HALLMARK UNIQUE IDENTIFICATION
+3.1 The HUID is a six-digit alphanumeric code assigned to each hallmarked article at the Assaying and Hallmarking Centre. It is unique to that individual article.
+3.2 The code is recorded against the article in the hallmarking database along with the jeweller, the centre, the purity and the article description.
+3.3 A consumer can enter the HUID in the verification facility published by BIS to see the recorded details of that article. If the details shown do not match the article in hand, the matter should be taken up with the seller and reported to BIS.
+
+4 HOW A CONSUMER VERIFIES A HALLMARKED ARTICLE
+4.1 Look for all the required marks on the article, including the BIS standard mark, the purity grade and the HUID.
+4.2 Verify the HUID using the official BIS verification facility.
+4.3 Ask the jeweller for an invoice that records the net weight of the precious metal, the purity in carats and fineness, the hallmarking charges and the HUID.
+4.4 A consumer may get the purity of a hallmarked article tested at a recognised Assaying and Hallmarking Centre. Where the article is found to be of lower purity than marked, the consumer is entitled to redress under the applicable rules.
+
+<<<PAGE:3>>>
+5 THE PROCESS FOR A JEWELLER
+5.1 Step 1 - Register with BIS as a jeweller through the online hallmarking portal. Registration is granted against the premises from which the jeweller sells.
+5.2 Step 2 - Obtain the registration number and display the registration certificate at the place of business.
+5.3 Step 3 - Send articles to a BIS recognised Assaying and Hallmarking Centre for assaying and hallmarking.
+5.4 Step 4 - The centre assays the article, and where it conforms, applies the hallmark including the HUID, and records the article in the database.
+5.5 Step 5 - Sell only hallmarked articles where hallmarking is mandatory for that category and that location, and issue an invoice recording the prescribed particulars.
+5.6 Step 6 - Maintain records of articles sent for hallmarking and of articles sold, as required by the scheme.
+
+6 DOCUMENTS FOR JEWELLER REGISTRATION
+6.1 Proof of establishment of the firm.
+6.2 Proof of the business address of each premises to be registered.
+6.3 Identity documents of the proprietor, partners or directors.
+6.4 Details of the categories of precious metal articles dealt in.
+
+<<<PAGE:4>>>
+7 ASSAYING AND HALLMARKING CENTRES
+7.1 An Assaying and Hallmarking Centre is an independent facility recognised by BIS to assay precious metal articles and to apply the hallmark. Recognition is granted for specified metals and specified test methods.
+7.2 The centre operates the assaying methods given in IS 1418 for gold. Fire assay by cupellation is the referee method; X-ray fluorescence is used for screening.
+7.3 The centre is subject to periodic surveillance by BIS, including proficiency testing.
+
+8 COMMON CONSUMER QUESTIONS
+8.1 Does a hallmark guarantee the weight of the article - No. The hallmark certifies the purity of the precious metal, not the weight, the making charges or the value of any stones set in the article.
+8.2 Can old jewellery be hallmarked - Existing articles may be hallmarked after assaying, subject to the procedures of the recognised centre.
+8.3 What if the marks are missing - An article sold as hallmarked must carry the prescribed marks. If it does not, raise it with the seller and report it to BIS through the official complaint facility.

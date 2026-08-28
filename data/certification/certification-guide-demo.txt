@@ -1,0 +1,56 @@
+DEMO DOCUMENT - NOT AN OFFICIAL BIS EXTRACT
+BIS PRODUCT CERTIFICATION - PROCEDURE GUIDE (DEMO)
+Document type: BIS Service Guideline
+
+<<<PAGE:1>>>
+1 PURPOSE AND SCOPE
+This guide explains, in general terms, how a manufacturer obtains a licence to apply the Standard Mark (the ISI Mark) to a product covered by an Indian Standard. It describes the schemes available, the sequence of steps, the documents normally required and the role of testing.
+
+2 CERTIFICATION SCHEMES
+2.1 Scheme-I (ISI Mark, Scheme of Testing and Inspection) - The manufacturer is granted a licence to apply the Standard Mark to a product conforming to a specified Indian Standard. Conformity is established through factory evaluation and product testing, and is maintained through a documented Scheme of Testing and Inspection operated by the licensee.
+2.2 Compulsory Registration Scheme (CRS) - Applies to notified electronics and IT products. The manufacturer registers with BIS on the basis of test reports from a BIS recognised laboratory. There is no routine factory inspection; surveillance is exercised through market samples and the registration database.
+2.3 Foreign Manufacturers Certification Scheme (FMCS) - Enables manufacturers located outside India to obtain a licence to use the Standard Mark, subject to the appointment of an Authorised Indian Representative.
+2.4 Hallmarking Scheme - Applies to gold and silver jewellery and artefacts. The jeweller registers with BIS and gets articles hallmarked at a BIS recognised Assaying and Hallmarking Centre.
+
+<<<PAGE:2>>>
+3 IS CERTIFICATION MANDATORY FOR MY PRODUCT
+3.1 Certification is voluntary for most products. It becomes mandatory only where the product has been notified under a Quality Control Order (QCO) issued by the relevant administrative ministry, or where it falls under the Compulsory Registration Scheme.
+3.2 A manufacturer must therefore establish two things separately: first, which Indian Standard covers the product; second, whether that product has been notified under a QCO or CRS. The existence of an Indian Standard for a product does not by itself make certification mandatory.
+3.3 The current list of products under mandatory certification is published by BIS and by the notifying ministries, and it changes over time. It must be checked against the official list before any compliance decision is taken.
+
+4 THE CERTIFICATION SEQUENCE
+4.1 Step 1 - Identify the product precisely, including its variants, ratings and intended use.
+4.2 Step 2 - Identify the applicable Indian Standard covering that product.
+4.3 Step 3 - Establish whether certification is mandatory or voluntary for that product.
+4.4 Step 4 - Identify the applicable certification scheme.
+4.5 Step 5 - Arrange testing of product samples against the applicable standard at a BIS recognised laboratory.
+4.6 Step 6 - Prepare the technical and legal documents required with the application.
+4.7 Step 7 - Submit the application through the BIS online portal together with the prescribed fee.
+4.8 Step 8 - Undergo factory inspection, where the scheme requires it, and provide samples for independent testing.
+4.9 Step 9 - Resolve any non-conformities raised, after which the licence or certificate of registration is granted.
+
+<<<PAGE:3>>>
+5 DOCUMENTS NORMALLY REQUIRED
+5.1 Proof of establishment of the firm, such as the certificate of incorporation, partnership deed or proprietorship declaration.
+5.2 Proof of the manufacturing address and, where applicable, the factory licence or industrial registration.
+5.3 A list of manufacturing machinery installed at the premises.
+5.4 A list of testing equipment available in the in-house laboratory, with calibration certificates.
+5.5 A process flow chart for the manufacture of the product.
+5.6 Test reports of the product from a BIS recognised laboratory against the applicable Indian Standard.
+5.7 Details of the quality control personnel and their qualifications.
+5.8 Trade mark registration or the application for it, where a trade mark is to be used with the Standard Mark.
+5.9 A signed undertaking regarding compliance with the Scheme of Testing and Inspection.
+
+6 TESTING
+6.1 Samples must be tested against every requirement of the applicable Indian Standard. The test report must be issued by a laboratory recognised by BIS for that product and that standard.
+6.2 In-house testing facilities are examined during the factory inspection. Where the manufacturer does not possess a required facility, a subcontracting arrangement with a recognised laboratory may be accepted, subject to the terms of the scheme.
+
+<<<PAGE:4>>>
+7 FACTORY INSPECTION
+7.1 A BIS officer visits the manufacturing premises to verify the manufacturing process, the in-house testing capability, the competence of the quality control staff and the implementation of the Scheme of Testing and Inspection.
+7.2 Samples are drawn during the inspection and sent for independent testing at a recognised laboratory. The licence is granted only when both the inspection and the independent test results are satisfactory.
+
+8 AFTER THE LICENCE IS GRANTED
+8.1 The licensee shall operate the Scheme of Testing and Inspection, maintain records of all routine and acceptance tests, and retain them for the period prescribed.
+8.2 BIS carries out surveillance through periodic inspections and market sample testing. Non-conformity may lead to suspension or cancellation of the licence.
+8.3 The Standard Mark shall be applied only to the product covered by the licence, and only in the form prescribed.
