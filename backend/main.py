@@ -27,23 +27,10 @@ before the response is returned.
 """
 
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    kb = get_kb()  # build the index once at startup rather than on first request
-    stats = kb.stats()
-    print(
-        f"[startup] {stats['standards']} standards, {stats['indexed_chunks']} chunks "
-        f"({stats['storage_driver']}, embeddings: {stats['embedding_provider']}, "
-        f"LLM: {'claude' if settings.llm_enabled else 'extractive fallback'})"
-    )
-    yield
-
-
 app = FastAPI(
     title=settings.app_name,
     version=settings.version,
     description=DESCRIPTION,
-    lifespan=lifespan,
     root_path="/api/backend" if __import__("os").getenv("VERCEL") else "",
 )
 
