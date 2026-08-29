@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "backend/main.py",
+      "src": "vercel_app.py",
       "use": "@vercel/python"
     },
     {
@@ -12,7 +12,7 @@
   "rewrites": [
     {
       "source": "/api/backend/(.*)",
-      "destination": "/backend/main.py"
+      "destination": "/vercel_app.py"
     },
     {
       "source": "/(.*)",

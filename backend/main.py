@@ -4,12 +4,6 @@ Run with:  uvicorn backend.main:app --reload --port 8000
 """
 from __future__ import annotations
 
-import sys
-from pathlib import Path
-
-# Ensure the project root is in sys.path so Vercel can resolve 'backend' package
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
 import time
 from collections import defaultdict, deque
 from contextlib import asynccontextmanager
