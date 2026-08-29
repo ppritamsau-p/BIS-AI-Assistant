@@ -44,6 +44,7 @@ app = FastAPI(
     version=settings.version,
     description=DESCRIPTION,
     lifespan=lifespan,
+    root_path="/api/backend" if __import__("os").getenv("VERCEL") else "",
 )
 
 app.add_middleware(
