@@ -66,7 +66,21 @@ class Settings:
 
     # --- content -----------------------------------------------------------
     demo_mode: bool = _bool("DEMO_MODE", True)
-    upload_dir: Path = Path(os.getenv("UPLOAD_DIR", str(BASE_DIR / "data" / "uploads")))
+
+    @property
+    def default_upload_dir(self) -> Path:
+        if os.getenv("VERCEL"):
+            import tempfile
+            return Path(tempfile.gettempdir()) / "uploads"
+        return BASE_DIR / "data" / "uploads"
+
+    @property
+    def _upload_dir_path(self) -> Path:
+        return Path(os.getenv("UPLOAD_DIR", str(self.default_upload_dir)))
+
+    @property
+    def upload_dir(self) -> Path:
+        return self._upload_dir_path
 
     @property
     def llm_enabled(self) -> bool:
@@ -80,7 +94,10 @@ class Settings:
 @lru_cache
 def get_settings() -> Settings:
     s = Settings()
-    s.upload_dir.mkdir(parents=True, exist_ok=True)
+    try:
+        s.upload_dir.mkdir(parents=True, exist_ok=True)
+    except OSError:
+        pass  # Read-only file system on Vercel/Serverless
     return s
 
 
